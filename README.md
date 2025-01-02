@@ -1,11 +1,11 @@
 # organize_files_cs
 ## ⚠️ PLEASE CHANGE "main_directory" AND "download_path" TO THE FOLDERS ⚠️
-main_directory is the main organized directory you want to move the files to;\n
-download_path is where you previously downloaded your stuff;\n
-i've made it for myself, so just change it on any text editor and you're fine\n\n
+main_directory is the main organized directory you want to move the files to;
+download_path is where you previously downloaded your stuff;
+i've made it for myself, so just change it on any text editor and you're fine
 
-for example:\n
-download_path == "C:\\Users\\{your_username}\\Downloads"\n
+for example:
+download_path == "C:\\Users\\{your_username}\\Downloads"
 main_directory == "C:\\Users\\{your_username}\\Documents\\organized_files"
 
 # how it works
