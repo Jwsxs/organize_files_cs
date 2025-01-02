@@ -1,0 +1,5 @@
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\publish\organize_files.exe
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\publish\organize_files.dll
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\publish\organize_files.deps.json
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\publish\organize_files.runtimeconfig.json
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\publish\organize_files.pdb

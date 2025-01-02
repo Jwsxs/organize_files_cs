@@ -1,0 +1,14 @@
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\organize_files.exe
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\organize_files.deps.json
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\organize_files.runtimeconfig.json
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\organize_files.dll
+C:\Users\s1co5\Documents\cs-projs\organize_files\bin\Release\net8.0\organize_files.pdb
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\organize_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\organize_files.AssemblyInfoInputs.cache
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\organize_files.AssemblyInfo.cs
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\organize_files.csproj.CoreCompileInputs.cache
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\organize_files.dll
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\refint\organize_files.dll
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\organize_files.pdb
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\organize_files.genruntimeconfig.cache
+C:\Users\s1co5\Documents\cs-projs\organize_files\obj\Release\net8.0\ref\organize_files.dll
