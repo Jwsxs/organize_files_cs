@@ -14,6 +14,6 @@ check you changed the paths i told you then
 ```cmd
 dotnet run
 ```
-checks every file on the download_path, then gets the extension of each one and, on the main_directory, if it alreay has a folder with the **same** name as the file extension, it moves the file there, if not, then creates a new folder and moves it there<br>
+the c# wizard checks every file on the download_path, then gets the extension of each one and, on the main_directory, if it alreay has a folder with the **same** name as the file extension, it moves the file there, if not, then creates a new folder and moves it there<br>
 the limit of checking the organized directory is two subdirectories to the organized dir,<br>
 in any case, just manually check it for any confusion
